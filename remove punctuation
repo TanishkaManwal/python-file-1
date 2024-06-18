@@ -1,0 +1,7 @@
+s = "hello! my name is lakhan"
+punctuation ='''!~`@$%^&*:;,.<>/?'"{}[]\|*/()-_=+'''
+no_punc=" "
+for char in s:
+    if char not in punctuation:
+       no_punc=no_punc + char
+print(no_punc)
