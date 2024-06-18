@@ -1,0 +1,2 @@
+str = "my name is lakhan"
+print(len(str))
