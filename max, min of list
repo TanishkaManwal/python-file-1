@@ -1,0 +1,3 @@
+lst=[4,7,8]
+print("minimum is : ",min(lst))      
+print("maximum is : ",max(lst)) 
