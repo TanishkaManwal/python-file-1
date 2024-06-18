@@ -1,0 +1,5 @@
+def find_age(birth,present):
+    age = present - birth
+    return age
+a = find_age(2004,2024)
+print("age is: ",a)  
