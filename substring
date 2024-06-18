@@ -1,0 +1,4 @@
+str = "MY NAME IS LAKHAN"
+# if find is used and no elements is present then it will give output -1 if present that it will index  of elements 
+print(str.find('NAME'))
+# index can be also use it will same as find but it will show error if it will not find any elements
