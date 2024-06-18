@@ -1,0 +1,4 @@
+str1 = "ram" 
+str2= "lakhan"
+str = str1 + " " + str2
+print(str)
