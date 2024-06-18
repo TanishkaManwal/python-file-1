@@ -1,0 +1,4 @@
+with open('b.pyt','r') as firstfile,open('c.pyt','w') as secondfile:
+
+  for line in firstfile:
+    secondfile.write(line)
