@@ -1,0 +1,8 @@
+str="geeksforgeeks"
+print(str.startswith("geeks"))
+print(str.startswith("geeks",4,10))
+print(str.startswith("geeks",8,14))
+print("\n")
+print(str.endswith("geeks"))
+print(str.endswith("geeks",2,8))
+print(str.endswith("geeks",5,8))
